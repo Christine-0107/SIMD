@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1649124723 source:d:\大学\2.2并行程序设计\code_simd\ssegauss_x86\ssegauss_x86.cpp
-	<iostream>
-	<time.h>
-	<windows.h>
-	<pmmintrin.h>
-
