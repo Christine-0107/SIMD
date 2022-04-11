@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649439397 source:d:\大学\2.2并行程序设计\code_simd\avxgauss_x86\avxgauss_x86.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<pmmintrin.h>
+

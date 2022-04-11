@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648994097 source:d:\大学\2.2并行程序设计\code_simd\serialgauss_x86\serialgauss_x86.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+
