@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649699941 source:d:\大学\2.2并行程序设计\code_simd\specialgauss_sse\specialgauss_sse.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<windows.h>
+	<pmmintrin.h>
+
