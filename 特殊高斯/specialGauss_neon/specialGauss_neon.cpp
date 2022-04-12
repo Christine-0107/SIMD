@@ -198,8 +198,8 @@ void inputData()
 
 }
 
-//串行
-void serialSpecialGauss()
+
+void specialGaussNeon()
 {
     for(int j=0;j<elitLineNum;j++)
     {
@@ -242,7 +242,7 @@ int main()
     inputData();
 
     gettimeofday(&start, NULL);
-    serialSpecialGauss();
+    specialGaussNeon();
     gettimeofday(&end, NULL);
     diff = 1000000 * (end.tv_sec - start.tv_sec) + end.tv_usec - start.tv_usec;
     cout <<"最大列数: "<<maxColNum<< " 非零消元子: " << elitNum <<" 被消元行: "<<elitLineNum<<" time: "<<diff<< "us" << endl;
